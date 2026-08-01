@@ -9,7 +9,7 @@ const projects =[
     Description:"A modern and responsive online learning platform for exploring and accessing educational courses with a clean and user-friendly design.",
     Image:"./projects/Clarity.png",
     tags:["Bootstrap","HTML","JavaScript"],
-    demoUrl:"https://project-cors-8aghiqod4-1-f122.vercel.app/",
+    demoUrl:"https://clarity-peach-gamma.vercel.app/",
 },
 {
     id:2, 
